@@ -23,5 +23,6 @@ public class cw06 {
         } else {
             System.out.println("To nie jest palindrom.");
         }
+        palindrom.close();
     }
 }

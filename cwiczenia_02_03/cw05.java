@@ -33,5 +33,6 @@ public class cw05 {
         } else {
             System.out.println("Brak zaliczenia");
         }
+        oceny.close();
     }
 }

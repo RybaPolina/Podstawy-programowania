@@ -33,6 +33,7 @@ public class cw04 {
         } else {
             System.out.println("Niedowaga. Idź do babuni, ona z tym se poradzi");
         }
+        dane.close();
     }
 }
 
